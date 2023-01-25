@@ -67,6 +67,7 @@ body{
   font-weight: 400;
   font-size: 24px;
   color: #2f2325;
+  cursor: pointer;
 }
 .conteudo-principal-escrito-botao:hover{
   background-color: rgba(236, 214, 196, 0.53);
